@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BryaanF, you can also call me Liant!
-- 👀 I’m interested in web development curretly.
-- 🌱 I’m currently learning web development and little bit about desktop apps!
-- 💞️ I’m looking to collaborate on certain functional web like chat social media or bot assistant.
+- 👀 I’m interested in apps development.
+- 🌱 I’m currently learning about web development, mobile app, and little bit about desktop app.
+- 💞️ I’m looking to collaborate to make some interesting project social media app alike!
 - 📫 You can reach me at my IG @brilliantfikri or email briliantfikri@gmail.com, thanks!
 
 <!---
