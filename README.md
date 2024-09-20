@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @BryaanF, you can also call me Liant!<br>👀 I’m interested in any apps development.<br>🌱 I’m currently learning about web development, mobile app, and little bit about desktop app. I learn elixir too recently too build realtime app!<br>💞️ I’m looking to collaborate to make some interesting project social media app alike!<br>📫 You can reach me at my IG @brilliantfikri or email briliantfikri@gmail.com, thanks!
+👋 Hi, I’m @BryaanF, you can also call me Liant!<br>👀 I’m interested in any apps development.<br>🌱 I’m currently learning about web development, mobile app, and little bit about desktop app. I learn elixir recently to build realtime app!<br>💞️ I’m looking to collaborate to make some interesting project social media app alike!<br>📫 You can reach me at my IG @brilliantfikri or email briliantfikri@gmail.com, thanks!
 
 
 ## 🌐 Socials:
