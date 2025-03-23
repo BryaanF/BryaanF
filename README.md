@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @BryaanF, you can call me Liant!<br>👀 I’m interested in any of apps development, project management, leading team, and being problem solver in general.<br>🌱 I’m currently working and hone my skill in full-stack website app development, API development, some of mobile app development, and little bit about desktop app development!<br>💞️ I’m looking to collaborate to make some interesting project like social media, ecommerce, and ERP (Enterprise Resource Planning) especially HRIS (Human Resources Information Sytems) app or alike!<br>📫 You can reach me at my instagram @brilliantfikri or email briliantfikri@gmail.com, thanks!
+👋 Hi, I’m @BryaanF, you can call me Liant!<br>👀 I’m interested in any of apps development, project management, leading team, and being problem solver in general!<br>🌱 I’m currently working and hone my skill in full-stack website app development, API development, some of mobile app development, and little bit about desktop app development!<br>💞️ I’m looking to collaborate to make some interesting project like social media, ecommerce, and ERP (Enterprise Resource Planning) especially HRIS (Human Resources Information Sytems) app or alike!<br>📫 You can reach me at my instagram @brilliantfikri or email briliantfikri@gmail.com, thanks!
 
 
 ## 🌐 Socials:
